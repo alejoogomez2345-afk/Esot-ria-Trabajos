@@ -17,7 +17,7 @@ body {
 /* ---------------------------- */
 /* Fondo Parallax */
 .parallax {
-  background-image: url('IMG/Background.jpg');
+  background-image: url('IMG/Fondo.jpg');
   height: 100vh;
   background-attachment: fixed;
   background-position: center;
@@ -326,3 +326,4 @@ body {
     font-size: 0.95rem;
   }
 }
+
